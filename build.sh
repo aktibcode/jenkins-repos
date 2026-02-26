@@ -1,1 +1,1 @@
-echo 'Build reussit OK !!!'
+echo 'Build reussit après changement dans jenkins OK !!!'

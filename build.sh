@@ -1,1 +1,1 @@
-echo 'Build reussit après changement dans jenkins, 3ème essais !!'
+echo 'Build reussit après changement dans jenkins, 3ème essais après demarrage de mobilXterm !!'

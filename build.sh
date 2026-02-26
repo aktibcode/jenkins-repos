@@ -1,1 +1,1 @@
-echo 'Build pour vérification après un push vers le depot GitHub !!!'
+echo 'Build pour vérification si push reussit ou pas !!!'
